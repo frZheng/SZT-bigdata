@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SZT-ETL/ETL-Flink/ETL-Flink.iml" filepath="$PROJECT_DIR$/SZT-ETL/ETL-Flink/ETL-Flink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SZT-ETL/ETL-SpringBoot/ETL-SpringBoot.iml" filepath="$PROJECT_DIR$/SZT-ETL/ETL-SpringBoot/ETL-SpringBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SZT-ETL/SZT-ETL.iml" filepath="$PROJECT_DIR$/SZT-ETL/SZT-ETL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SZT-bigdata.iml" filepath="$PROJECT_DIR$/SZT-bigdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SZT-common/SZT-common.iml" filepath="$PROJECT_DIR$/SZT-common/SZT-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SZT-flink/SZT-flink.iml" filepath="$PROJECT_DIR$/SZT-flink/SZT-flink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SZT-kafka-hbase/SZT-kafka-hbase.iml" filepath="$PROJECT_DIR$/SZT-kafka-hbase/SZT-kafka-hbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SZT-spark-hive/SZT-spark-hive.iml" filepath="$PROJECT_DIR$/SZT-spark-hive/SZT-spark-hive.iml" />
+    </modules>
+  </component>
+</project>

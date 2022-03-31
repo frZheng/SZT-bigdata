@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SZT-common" />
+        <module name="ETL-SpringBoot" />
+        <module name="ETL-Flink" />
+        <module name="SZT-kafka-hbase" />
+        <module name="SZT-spark-hive" />
+        <module name="SZT-flink" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ETL-Flink" target="1.8" />
+      <module name="ETL-SpringBoot" target="1.8" />
+      <module name="SZT-bigdata" target="1.8" />
+      <module name="SZT-common" target="1.8" />
+      <module name="SZT-ETL" target="1.8" />
+      <module name="SZT-flink" target="1.8" />
+      <module name="SZT-kafka-hbase" target="1.8" />
+      <module name="SZT-spark-hive" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
